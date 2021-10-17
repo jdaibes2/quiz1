@@ -66,7 +66,7 @@
       "title": "",
       "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
       "_incorrect": {
-        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \" >  </p>\n",
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \">  </p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -385,11 +385,11 @@
         "_score": 0
       }
     ],
-    "_attempts": 2,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
     "_hasItemScoring": false,
@@ -397,9 +397,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
       "_incorrect": {
-        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \" >  </p>\n",
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -489,11 +489,11 @@
         "_score": 0
       }
     ],
-    "_attempts": 2,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
     "_hasItemScoring": false,
@@ -501,9 +501,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
       "_incorrect": {
-        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \" >  </p>\n",
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -593,11 +593,11 @@
         "_score": 0
       }
     ],
-    "_attempts": 2,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
     "_hasItemScoring": false,
@@ -605,9 +605,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
       "_incorrect": {
-        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \" >  </p>\n",
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -697,11 +697,11 @@
         "_score": 0
       }
     ],
-    "_attempts": 2,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
     "_hasItemScoring": false,
@@ -709,9 +709,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
       "_incorrect": {
-        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \" > </p>\n",
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -801,11 +801,11 @@
         "_score": 0
       }
     ],
-    "_attempts": 2,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
     "_hasItemScoring": false,
@@ -813,9 +813,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
       "_incorrect": {
-        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \" >  </p>\n",
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -905,11 +905,11 @@
         "_score": 0
       }
     ],
-    "_attempts": 2,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
     "_hasItemScoring": false,
@@ -917,9 +917,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>",
       "_incorrect": {
-        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \" >  </p>\n",
+        "final": "\n<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1009,11 +1009,11 @@
         "_score": 0
       }
     ],
-    "_attempts": 2,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
     "_hasItemScoring": false,
@@ -1021,9 +1021,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" >  </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "correct": "<p style=\"font-size:32px\"><strong>إجابة صحيحة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/ok.mp3\" type=\"audio/mpeg\">\n</audio>\n",
       "_incorrect": {
-        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/false.png \" >  </p>\n",
+        "final": "<p style=\"font-size:32px\"><strong>إجابة خاطئة</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1102,11 +1102,11 @@
     "_resetType": "inherit",
     "_assessmentId": "quiz",
     "_retry": {
-      "button": "Retry Assessment",
-      "feedback": "",
-      "_routeToAssessment": false
+      "button": "إعادة الاختبار",
+      "feedback": "<p dir=\"rtl\" style=\"text-align: center;\"><strong><span style=\"background-color:#99ff66\">يمكنك إعادة الاختبار!</span></strong></p>",
+      "_routeToAssessment": true
     },
-    "_completionBody": "<p dir=\"rtl\" style=\"text-align: center;\"><strong><span style=\"background-color:#FF8C00\">&nbsp;مجموع العلامات</span></strong></p><p dir=\"rtl\" style=\"text-align: center;\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}}&nbsp; من</span>&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp;&nbsp;</span></span></strong></p>",
+    "_completionBody": "<p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;مجموع العلامات</span></strong></p><p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}}&nbsp; من</span>&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp;&nbsp;</span></span></strong></p>",
     "_bands": []
   }
 ]
