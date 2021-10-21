@@ -1109,4 +1109,29 @@
     "_completionBody": "<p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;مجموع العلامات</span></strong></p><p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}}&nbsp; من</span>&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp;&nbsp;</span></span></strong></p>",
     "_bands": []
   }
+  
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FFFFFF\"> إنتاج المرّكز التّربويّ للبحوث والإنماء</span></p>"
+    "_id": "6156d01488cf1941fc91784b",
+    "_parentId": "6156d01488cf1941fc91784a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+  },
+
 ]
