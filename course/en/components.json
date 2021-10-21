@@ -1109,6 +1109,4 @@
     "_completionBody": "<p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;مجموع العلامات</span></strong></p><p dir=\"rtl\" style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}}&nbsp; من</span>&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp;&nbsp;</span></span></strong></p>",
     "_bands": []
   }
-  
-  
 ]
